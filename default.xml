@@ -424,4 +424,8 @@
     <copyfile src="tools/build-liquid.sh" dest="build-liquid.sh" />
   </project>
 
+ <!--Device Supported-->
+  <project name="Jackeagle/liquid_device_xiaomi_cancro" path="device_xiaomi_cancro" remote="gh" revision="kitkat" />
+  <project name="mi3-dev/proprietary_vendor_xiaomi" path="vendor_xiaomi" remote="gh" revision="cm-11.0" />
+  
 </manifest>
